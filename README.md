@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Rust**
+- 💬 Ask me about **My projects**
 
 - 📫 How to reach me **u/Kuzakor on reddit**
 
